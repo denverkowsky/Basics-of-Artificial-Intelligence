@@ -1,1 +1,1 @@
-# Basics-of-Artificial-Intelligence
+# Basicsn of Artificia Intelligence
