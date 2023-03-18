@@ -1,1 +1,2 @@
-# Basicsn of Artificia Intelligence
+# Basics of Artificia Intelligence
+###- Using NN algoritm for TSP 
